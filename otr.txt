@@ -1490,7 +1490,7 @@ the one who put the newspapers in his shoe and walked around in a stovepipe hat 
 This was an exaggeration of what I'd told Remi of Dostoevski. "Ah, that's it - that's it - Dostioffski."
 "A man with a face like that supervisor can only have one name - it's Dostioffski."
 The only unlocked door he ever found belonged to Dostioffski.
-D. was asleep when he heard someone fiddling with his doorknob.
+... D. was asleep when he heard someone fiddling with his doorknob.
 He got up in his pajamas. He came to the door looking twice as ugly as usual.
 When Remi opened it he saw a haggard face suppurated with hatred and dull fury.
 "What is the meaning of this?"
